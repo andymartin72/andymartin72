@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Andrew Arul, a Tech and AI enthusiast, aspring AI/ML Engineer
-- I hold a Masters in Artificial Intelligence (University of Birmingham) and Bachelors in Electronics and communication (Anna University)
+👋 Hi, I'm Andrew Arul
+🚀 MSc Artificial Intelligence Graduate | Ex-Freshworks | Tech and AI Enthusiast
 
-I am currently actively looking for entry level AI/Ml/Data related roles
+I am currently actively looking for AI/Ml/Data science based roles
 
 ## Places I've held Tech roles
 
