@@ -1,13 +1,15 @@
-👋 Hi, I'm Andrew Arul
-🚀 MSc Artificial Intelligence Graduate | Ex-Freshworks | Tech and AI Enthusiast
+👋 Hi, I'm Andrew Arul, a Tech and AI enthusiast
+<br>
+- I'm an MSc Artificial intelligence graduate from the University of Birmingham, United Kingdom.
+- I have 3 years of work experiece at Freshworks as a Senior software Engineer in Test
 
 I am currently actively looking for AI/Ml/Data science based roles
 
 ## Places I've held Tech roles
 
-<img src="https://github.com/user-attachments/assets/e1626adc-b006-4e09-9be2-16ac5ac1e69c" alt="drawing" width="200"/>
-
-![62c9d1d494890221ddd176a0|200](https://github.com/user-attachments/assets/e1626adc-b006-4e09-9be2-16ac5ac1e69c)   ![image](https://github.com/user-attachments/assets/f6633bd9-f12d-41b8-98c0-d1a8e0657a56)
+<img src="https://github.com/user-attachments/assets/e1626adc-b006-4e09-9be2-16ac5ac1e69c" alt="drawing" width="300"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/f6633bd9-f12d-41b8-98c0-d1a8e0657a56" alt="drawing" width="150"/>
 
 
 
