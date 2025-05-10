@@ -3,7 +3,7 @@
 - I'm an MSc Artificial intelligence graduate from the University of Birmingham, United Kingdom.
 - I have 3 years of work experiece at Freshworks as a Senior software Engineer in Test
 
-I am currently actively looking for AI/ML/Data science based roles
+I am currently actively looking for AI/ML/Data science/SDET related software roles
 
 ## Places I've held Tech roles
 
